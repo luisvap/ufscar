@@ -1,0 +1,56 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Alvaro"
+    },
+    {
+      "id": 2,
+      "nome": "Camille"
+    },
+    {
+      "id": 3,
+      "nome": "Cesar"
+    },
+    {
+      "id": 4,
+      "nome": "Geovane"
+    },
+    {
+      "id": 5,
+      "nome": "Lucas"
+    },
+    {
+      "id": 6,
+      "nome": "Marcel"
+    },
+    {
+      "id": 7,
+      "nome": "Richard First"
+    },
+    {
+      "id": 8,
+      "nome": "Richard Second"
+    },
+    {
+      "id": 9,
+      "nome": "Tiago"
+    },
+    {
+      "id": 10,
+      "nome": "Wagner"
+    },
+    {
+      "id": 11,
+      "nome": "Wellington"
+    }
+    ,{
+      "id": 12,
+      "nome": "William",
+      
+    }
+  ],
+  "profile": {
+    "name": "mobile-ufscar"
+  }
+}
